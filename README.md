@@ -6,4 +6,4 @@
 * Unidade IV – Apresentação do Projeto de extensão
 * Unidade V – Apresentação e relatório final
 
-__ Ana Claudia de Azevedo __
+ __Todo agradecimento a professora Ana Claudia de Azevedo da disciplina.__
